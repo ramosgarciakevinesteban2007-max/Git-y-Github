@@ -1,7 +1,12 @@
 body {
-    background: #202020;
+    background: #ac6060;
     color: blue;
     background-color: #202020;
     color: #000;
+    background-color: aliceblue;
+    background-position: 0%;
+    background-size: 100% 100%;
+    border-bottom: #ac6060 10px solid;
+    
     background-image: -moz-element();
 }
