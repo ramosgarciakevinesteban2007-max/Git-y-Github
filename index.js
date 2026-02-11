@@ -1,4 +1,9 @@
-//lo que aprendi en el video de JS para react
+//lo que apreni
+// funciones
+// function hello() {
+//     console.log('Hola Mundo')
+//     console.log('trabajando con JS')
+// }
 // Ejemplo 1
 // function hello() {
 //     console.log('Hola Mundo')
