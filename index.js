@@ -1,3 +1,4 @@
+//lo que aprendi en el video de JS para react
 // Ejemplo 1
 // function hello() {
 //     console.log('Hola Mundo')

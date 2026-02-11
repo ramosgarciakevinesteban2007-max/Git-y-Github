@@ -3,4 +3,5 @@ body {
     color: blue;
     background-color: #202020;
     color: #000;
+    background-image: -moz-element();
 }
