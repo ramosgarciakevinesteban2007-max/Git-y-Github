@@ -1,4 +1,4 @@
-//lo que apreni
+//cambios en el archivo
 // funciones
 // function hello() {
 //     console.log('Hola Mundo')
