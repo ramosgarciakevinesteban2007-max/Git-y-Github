@@ -1,4 +1,9 @@
 body {
-    background: #202020;
-    color: white;
+    background: #ff2222;
+    color: rgb(8, 0, 0);
+    background-color: #202020;
+    background-color: rgb(255, 255, 255);
+    
+
+    background-image: -moz-element();
 }
