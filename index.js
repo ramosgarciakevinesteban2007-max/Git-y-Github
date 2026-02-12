@@ -4,6 +4,8 @@
 //     console.log('Hola Mundo')
 //     console.log('trabajando con JS')
 // }
+//
+// hello()
 // Ejemplo 1
 // function hello() {
 //     console.log('Hola Mundo')

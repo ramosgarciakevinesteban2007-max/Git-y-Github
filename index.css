@@ -2,11 +2,8 @@ body {
     background: #ff2222;
     color: rgb(112, 111, 111);
     background-color: #202020;
-   
     background-color: rgb(165, 171, 177);
-    background-position: 0%;
     background-size: 100% 100%;
-    border-bottom: #e6e3e3 10px solid;
 
     background-image: -moz-element();
 }
